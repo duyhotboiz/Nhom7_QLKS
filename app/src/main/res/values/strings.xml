@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nhom7_QLKS</string>
+    <array name="lichlamviec" >
+        <item >
+            Ca sáng
+
+        </item>
+        <item >
+            Ca trưa
+
+        </item>
+        <item >
+            Ca chiều
+        </item>
+
+    </array>
+</resources>

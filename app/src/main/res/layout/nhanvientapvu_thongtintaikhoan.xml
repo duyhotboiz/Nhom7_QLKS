@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#18364B"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thông tin tài khoản"
+        android:textColor="#F4F4EF"
+        android:textSize="25dp"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        />
+    <LinearLayout
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+
+            android:layout_marginLeft="15dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_baseline_account_box_24"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Phạm Chí Cong"
+            android:textColor="#F4F4EF"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="13dp"
+            android:textSize="18dp"
+            />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_baseline_edit_24"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="#F1ECEC"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+
+            android:layout_marginLeft="15dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_baseline_account_box_24"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0123456789"
+            android:textColor="#F4F4EF"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="13dp"
+            android:textSize="18dp"
+            />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_baseline_edit_24"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="#F1ECEC"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+
+            android:layout_marginLeft="15dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_baseline_account_box_24"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CMND/CCCD"
+            android:textColor="#F4F4EF"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="13dp"
+            android:textSize="18dp"
+            />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_baseline_edit_24"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="#F1ECEC"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+
+            android:layout_marginLeft="15dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_baseline_account_box_24"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lịch làm việc"
+            android:textColor="#F4F4EF"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="13dp"
+            android:textSize="18dp"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+
+            android:layout_marginLeft="15dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_baseline_account_box_24"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thông tin lương"
+            android:textColor="#F4F4EF"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="13dp"
+            android:textSize="18dp"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="70dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lưu"
+            android:layout_marginLeft="100dp"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trở về"
+            android:layout_marginLeft="50dp"
+            />
+
+    </LinearLayout>
+
+    </LinearLayout>
